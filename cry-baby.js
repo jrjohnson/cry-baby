@@ -1,5 +1,6 @@
 'use strict';
 
+const request = require('request');
 const run = require('./src/run.js');
 
-run();
+run(request, true);

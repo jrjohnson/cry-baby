@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jrjohnson/cry-baby#readme",
   "dependencies": {
+    "request": "^2.81.0"
   },
   "engines": {
     "node": "7.7"

@@ -1,0 +1,30 @@
+{
+  "name": "cry-baby",
+  "version": "0.0.0",
+  "description": "Cry baby distracts the aliance and shelters your browsing data",
+  "main": "cry-baby.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrjohnson/cry-baby.git"
+  },
+  "scripts": {
+    "start": "node cry-baby.js",
+    "test": "mocha && eslint . "
+  },
+  "author": "Jon Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrjohnson/cry-baby/issues"
+  },
+  "homepage": "https://github.com/jrjohnson/cry-baby#readme",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "7.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-plugin-mocha": "^4.8.0",
+    "mocha": "^3.2.0"
+  }
+}

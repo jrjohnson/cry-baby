@@ -1,5 +1,7 @@
 # cry-baby
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrjohnson/cry-baby.svg)](https://greenkeeper.io/)
+
 The purpose of this library is to ping random URLs in order to obfuscate your browser traffic.  This won't hide
 you from advertisers, but it should significantly obscure your real browsing so as to make any data logged by your
 ISP worthless.
